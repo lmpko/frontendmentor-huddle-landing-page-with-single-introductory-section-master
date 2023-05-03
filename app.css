@@ -1,0 +1,8 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+:root{
+    --primary-color: hsl(257, 40%, 49%);
+    --secondary-color: hsl(300, 69%, 71%);
+}
+
