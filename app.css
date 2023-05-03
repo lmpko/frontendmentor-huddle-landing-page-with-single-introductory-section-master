@@ -6,3 +6,9 @@ font-family: 'Poppins', sans-serif; */
     --secondary-color: hsl(300, 69%, 71%);
 }
 
+body{
+    margin: 0;
+    background-image: url("/images/bg-mobile.svg");
+    background-repeat: no-repeat;
+    background-color: var(--primary-color);
+}
