@@ -16,7 +16,7 @@ body{
 }
 
 main{
-    margin: 25px;
+    margin: 1.5625rem;
 }
 
 .logo{
@@ -25,7 +25,7 @@ main{
 
 .ilustration{
     width: 100%;
-    margin: 55px 0;
+    margin: 3.4375rem 0;
 }
 
 section{
@@ -44,12 +44,12 @@ section p{
 }
 
 section button{
-    padding: 15px 75px;
+    padding: .9375rem 4.6875rem;
     background-color: white;
     border: none;
     color: var(--primary-color);
-    border-radius: 50px;
-    margin: 15px;
+    border-radius: 3.125rem;
+    margin: .9375rem;
 }
 
 section button:hover, section button:focus{
@@ -69,11 +69,11 @@ section button:hover, section button:focus{
     list-style: none;
     display: flex;
     flex-direction: row;
-    width: 15px;
-    height: 15px;
+    width: .9375rem;
+    height: .9375rem;
     font-size: 24px;
-    padding: 10px;
-    margin: 10px;
+    padding: .625rem;
+    margin: .625rem;
     border: 1px white solid;
     color: white;
     border-radius: 50%;
@@ -97,7 +97,7 @@ section button:hover, section button:focus{
 
     section{
         text-align: start;
-        padding: 0 50px;
+        padding: 0 3.125rem;
     }
 
     section h1{
@@ -120,7 +120,7 @@ section button:hover, section button:focus{
         grid-area: logo;
         justify-self: start;
         width: auto;
-        padding: 0 0 60px 0;
+        padding: 0 0 3.75rem 0;
         width: auto;
       }
       .ilustration {
@@ -131,12 +131,12 @@ section button:hover, section button:focus{
       }
       .content {
         grid-area: kontent;
-        padding-top: 25px;
+        padding-top: 1.5625rem;
       }
       .socials {
         grid-area: socials;
         justify-self: end;
-        padding-right: 50px;
+        padding-right: 3.125rem;
       }
       
 }
