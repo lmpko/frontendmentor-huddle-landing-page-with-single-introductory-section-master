@@ -130,7 +130,6 @@ section button:hover, section button:focus{
         justify-self: center;
         align-self: center;
         margin: 0;
-        max-width: 100%;
       }
       .content {
         grid-area: kontent;
